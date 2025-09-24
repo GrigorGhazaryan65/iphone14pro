@@ -11,7 +11,7 @@ export default function PopularProducts() {
             <p className="text-sm opacity-70 mb-4">
                 iPad combines a magnificent 10.2-inch Retina display, incredible performance, multitasking and ease of use.
             </p>
-            <button className="px-4 py-2 rounded-md text-sm font-semibold bg-gray-900 text-white">
+            <button className="cursor-pointer px-4 py-2 rounded-md text-sm font-semibold bg-gray-900 text-white">
                 Shop Now
             </button>
             </div>
@@ -27,7 +27,7 @@ export default function PopularProducts() {
             <p className="text-sm opacity-70 mb-4">
                 iPad combines a magnificent 10.2-inch Retina display, incredible performance, multitasking and ease of use.
             </p>
-            <button className="px-4 py-2 rounded-md text-sm font-semibold bg-gray-900 text-white">
+            <button className="cursor-pointer px-4 py-2 rounded-md text-sm font-semibold bg-gray-900 text-white">
                 Shop Now
             </button>
             </div>
@@ -42,7 +42,7 @@ export default function PopularProducts() {
             <p className="text-sm opacity-70 mb-4">
                 iPad combines a magnificent 10.2-inch Retina display, incredible performance, multitasking and ease of use.
             </p>
-            <button className="px-4 py-2 rounded-md text-sm font-semibold bg-gray-900 text-white">
+            <button className="cursor-pointer px-4 py-2 rounded-md text-sm font-semibold bg-gray-900 text-white">
                 Shop Now
             </button>
             </div>
@@ -57,7 +57,7 @@ export default function PopularProducts() {
                 <p className="text-sm opacity-70 mb-4">
                     iPad combines a magnificent 10.2-inch Retina display, incredible performance, multitasking and ease of use.
                 </p>
-                <button className="px-4 py-2 rounded-md text-sm font-semibold bg-gray-900 text-white">
+                <button className="cursor-pointer px-4 py-2 rounded-md text-sm font-semibold bg-gray-900 text-white">
                     Shop Now
                 </button>
             </div>
